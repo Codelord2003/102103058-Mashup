@@ -1,5 +1,5 @@
 # 102103058-Mashup
-This Python script defines a Flask application that provides an API endpoint `/generate_mashup` for generating music mashups from YouTube videos and sending them via email. Here's a brief overview of what the code does:
+A Flask application that provides an API endpoint `/generate_mashup` for generating music mashups from YouTube videos and sending them via email. Here's a brief overview of what the code does:
 
 1. **Flask Application Setup**: Initializes a Flask application instance.
 
